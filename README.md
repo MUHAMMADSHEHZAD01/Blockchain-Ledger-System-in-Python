@@ -4,7 +4,7 @@
 Implementing a Blockchain Ledger System in Python
 This project is my simple blockchain-based ledger system with a web interface. The ledger allows users to conduct financial transactions and verify the integrity of the entire blockchain, or the transaction data in the ledger. 
 
-The blockchain infrastructure is created using Python dataclasses and the web UI is created using Streamlit for Deployment.
+The blockchain infrastructure is created using Python dataclasses and the web UI is created using Streamlit.
 
 ---
 
